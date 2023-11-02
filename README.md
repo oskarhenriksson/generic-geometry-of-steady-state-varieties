@@ -10,7 +10,12 @@ The repository contains the following files:
 * A file `degenerate_networks` with all networks from `investigated_models.csv` that have a positive steady states, but all of them are degenerate.
 
 ## Example
-In order to investigate the properties of `BIOMD0000000520`, one can run the following commands.
+Suppose we want to investigate the properties of a network with the following stoichiometric matrix and reactant matrix (this corresponds to `BIOMD0000000520` in ODEbase):
+
+```
+Gamma := Matrix([[-1, 0, 1, 0, 0, 0, 0], [0, 1, 0, -1, 0, 1, 0], [0, 0, 0, 0, 1, 0, -1]]);
+B := Matrix([[1, 1, 1, 0, 0, 0, 0], [0, 0, 0, 1, 1, 1, 0], [0, 0, 0, 0, 0, 0, 1]]);
+```
 
 We begin by loading our Maple functions:
 
@@ -18,23 +23,22 @@ We begin by loading our Maple functions:
 read("functions.mpl"):
 ```
 
-We then define the stoichiometric matrix and the reactant matrix:
-
-```maple
-Gamma := Matrix([[-1, 0, 1, 0, 0, 0, 0], [0, 1, 0, -1, 0, 1, 0], [0, 0, 0, 0, 1, 0, -1]]);
-B := Matrix([[1, 1, 1, 0, 0, 0, 0], [0, 0, 0, 1, 1, 1, 0], [0, 0, 0, 0, 0, 0, 1]]);
-```
-
 In order to check whether there are positive steady states, we write:
 
 ```
 IsConsistent(Gamma)
 ```
-which gives the output `true`.
+which, in this case, gives the output `true`.
 
 In order to check whether there are nondegenerate steady states, we write:
 
 ```
 HasNondegenerateSteadyState(Gamma,B);
 ```
-which gives the output `false`.
+which, in this case, gives the output `false`.
+
+Finally, we check whether there are nondegenerate zeros of the steady state polynomials, by writing:
+```
+HasNondegenerateZeros(Gamma,B);
+```
+which, in this case, also gives the output `false`.
