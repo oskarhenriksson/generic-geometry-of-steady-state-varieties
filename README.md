@@ -35,7 +35,7 @@ The following command returns `false`, which means that all steady states are de
 HasNondegenerateSteadyState(Gamma,B);
 ```
 
-Finally, the following command returns `false`; with the notation from (4.2) in the paper, this means that all zeros of $f_\kappa$ are degenerate for all $\kappa$:
+The following command returns `false`; with the notation from (4.2) in the paper, this means that all zeros of $f_\kappa$ are degenerate for all $\kappa$:
 ```
 HasNondegenerateZeros(Gamma,B);
 ```
