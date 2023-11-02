@@ -20,7 +20,7 @@ read("functions.mpl"):
 
 We then define the stoichiometric matrix and the reactant matrix:
 
-```
+```maple
 Gamma := Matrix([[-1, 0, 1, 0, 0, 0, 0], [0, 1, 0, -1, 0, 1, 0], [0, 0, 0, 0, 1, 0, -1]]);
 B := Matrix([[1, 1, 1, 0, 0, 0, 0], [0, 0, 0, 1, 1, 1, 0], [0, 0, 0, 0, 0, 0, 1]]);
 ```
