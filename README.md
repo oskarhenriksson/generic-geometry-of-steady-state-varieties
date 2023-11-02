@@ -23,22 +23,19 @@ We begin by loading our Maple functions:
 read("functions.mpl"):
 ```
 
-In order to check whether there are positive steady states, we write:
+The following command returns `true`, which means that the network admits positive steady states:
 
 ```
 IsConsistent(Gamma)
 ```
-which, in this case, gives the output `true`.
 
-In order to check whether there are nondegenerate steady states, we write:
+The following command returns `false`, which means that all steady states are degenerate:
 
 ```
 HasNondegenerateSteadyState(Gamma,B);
 ```
-which, in this case, gives the output `false`.
 
-Finally, we check whether there are nondegenerate zeros of the steady state polynomials, by writing:
+Finally, the following command returns `false`; with the notation from (4.2) in the paper, this means that all zeros of $f_\kappa$ are degenerate for all $\kappa$:
 ```
 HasNondegenerateZeros(Gamma,B);
 ```
-which, in this case, also gives the output `false`.
