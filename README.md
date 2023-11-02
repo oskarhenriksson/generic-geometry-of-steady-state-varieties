@@ -5,7 +5,7 @@ This repository contains files for the manuscript [Dimension and degeneracy of z
 ## File descriptions
 The repository contains the following files:
 * A Maple file `functions.mpl` that contains functions for testing whether a network admits positive nondegenerate steady states when modeled with mass action kinetics.
-* A file `investigated_models.csv` with all networks in ODEbase (as of November 2, 2023) with at least one reaction.
+* A file `investigated_models.csv` with all networks in [ODEbase](https://www.odebase.org/) (as of November 2, 2023) with at least one reaction.
 * A file `nondegenerate_networks` with all networks from `investigated_models.csv` that admit a positive nondegenerate steady state.
 * A file `degenerate_networks` with all networks from `investigated_models.csv` that have a positive steady states, but all of them are degenerate.
 
