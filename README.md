@@ -23,18 +23,18 @@ We then define the stoichiometric matrix and the reactant matrix:
 ```
 Gamma := Matrix([[-1, 0, 1, 0, 0, 0, 0], [0, 1, 0, -1, 0, 1, 0], [0, 0, 0, 0, 1, 0, -1]]);
 B := Matrix([[1, 1, 1, 0, 0, 0, 0], [0, 0, 0, 1, 1, 1, 0], [0, 0, 0, 0, 0, 0, 1]]);
-````
+```
 
 In order to check whether there are positive steady states, we write:
 
 ```
 IsConsistent(Gamma)
-````
+```
 which gives the output `true`.
 
 In order to check whether there are nondegenerate steady states, we write:
 
-````
+```
 HasNondegenerateSteadyState(Gamma,B);
 ```
 which gives the output `false`.
