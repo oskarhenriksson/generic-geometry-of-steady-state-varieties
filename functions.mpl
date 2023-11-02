@@ -53,6 +53,7 @@ DegeneracyMatrix := proc(N,B)
 end proc:
 
 # Checks whether N.diag(k).x^B has a nondegenerate zero, where N has full rank and the same row space as Gamma
+# If both this function and IsConsistent(Gamma) returns true, then the network satisfies the equivalent conditions in Theorem 4.2
 HasNondegenerateZero := proc(Gamma,B,number_of_attempts:=3,max_entry_size:=1000,max_time:=infinity)
 	local n, r, s, G, degeneracy_matrix, N, i, j, ranks_at_random_steady_states:
 
@@ -80,6 +81,7 @@ HasNondegenerateZero := proc(Gamma,B,number_of_attempts:=3,max_entry_size:=1000,
 end proc:
 
 # Checks whether a network with stoichiometric matrix Gamma and reactant matrix B has a nondegenerate steady state
+# If both this function and IsConsistent(Gamma) returns true, then the network satisfies the equivalent conditions in Theorem 4.5
 HasNondegenerateSteadyState := proc(Gamma,B,number_of_attempts:=3,max_entry_size:=1000,max_time:=infinity)
 	local n, r, s, N, G, W, degeneracy_matrix, augmented_degeneracy_matrix, i, j, ranks_at_random_steady_states:
 	n := LinearAlgebra[RowDimension](B):
