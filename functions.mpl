@@ -1,4 +1,4 @@
-# Retruns a matrix W of full rank so that WN=0
+# Returns a full-rank matrix W such that WN=0
 ConservedQuantities := proc(N)
 
 	local left_kernel, v:
@@ -9,7 +9,7 @@ ConservedQuantities := proc(N)
 
 end proc:
 
-# Checks if a matrix M has any nonzero p-by-p minor
+# Checks whether a matrix M has any nonzero p-by-p minor
 HasNonzeroMinor := proc(M,p)
 local chosen_rows, chosen_cols, minor;
 	for chosen_rows in Iterator[Combination](LinearAlgebra[RowDimension](M),p) do
@@ -30,7 +30,7 @@ RowReduce := proc(Gamma)
 	return <seq(<r>,r in %)>:
 end proc:
 
-# Checks if Gamma has a positive vector in its kernel
+# Checks whether Gamma has a positive vector in its kernel
 # If Gamma is the stoichiometric matrix of a network, this corresponds to checking if the network is consistent
 IsConsistent := proc(Gamma,max_time:=infinity)
 	local existence_of_positive_flux, v, w, i, r;
@@ -52,9 +52,7 @@ DegeneracyMatrix := proc(N,B)
 	return N.LinearAlgebra[DiagonalMatrix](G.Vector([seq(u[i],i=1..r-s)])).LinearAlgebra[Transpose](B):
 end proc:
 
-
-
-# Checks whether N.diag(k).x^B has a nondegenerate zero where N has full rank and the same row space as Gamma
+# Checks whether N.diag(k).x^B has a nondegenerate zero, where N has full rank and the same row space as Gamma
 HasNondegenerateZero := proc(Gamma,B,number_of_attempts:=3,max_entry_size:=1000,max_time:=infinity)
 	local n, r, s, G, degeneracy_matrix, N, i, j, ranks_at_random_steady_states:
 
@@ -94,8 +92,8 @@ HasNondegenerateSteadyState := proc(Gamma,B,number_of_attempts:=3,max_entry_size
 	W := ConservedQuantities(Gamma):
 	augmented_degeneracy_matrix := <degeneracy_matrix,W>:
 	ranks_at_random_steady_states := [seq(LinearAlgebra[Rank](
-											subs([seq(u[j]=rand(-max_entry_size..max_entry_size)(),j=1..r-s)],augmented_degeneracy_matrix)),
-												i=1..number_of_attempts)]:
+		subs([seq(u[j]=rand(-max_entry_size..max_entry_size)(),j=1..r-s)],augmented_degeneracy_matrix)),
+		i=1..number_of_attempts)]:
 	if (n in ranks_at_random_steady_states) then
 		return true:
 	else
