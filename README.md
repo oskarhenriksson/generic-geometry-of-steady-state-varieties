@@ -10,7 +10,7 @@ The repository contains the following files:
 * A file `degenerate_networks` with all networks from `investigated_models.csv` that have a positive steady states, but all of them are degenerate.
 
 ## Example
-Suppose we want to investigate the properties of a network with the following stoichiometric matrix and reactant matrix (this corresponds to `BIOMD0000000520` in ODEbase):
+Suppose we want to investigate the properties of a network with the following stoichiometric matrix and reactant matrix (this corresponds to the network `BIOMD0000000520` in ODEbase):
 
 ```
 Gamma := Matrix([[-1, 0, 1, 0, 0, 0, 0], [0, 1, 0, -1, 0, 1, 0], [0, 0, 0, 0, 1, 0, -1]]);
