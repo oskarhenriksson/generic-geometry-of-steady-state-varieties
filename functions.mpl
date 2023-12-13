@@ -39,7 +39,7 @@ IsConsistent := proc(Gamma,max_time:=infinity)
 	return SMTLIB[Satisfiable](existence_of_positive_flux ,logic="QF_NRA",timelimit=max_time);
 end proc:
 
-# Computes the matrix-rank condition from (3.13) in the paper
+# Computes the matrix that appears in the rank condition (3.13) in the paper
 # The rank of this matrix determines the existence of nondegenerate zeros of N.diag(k).x^B
 DegeneracyMatrix := proc(N,B)
 	local n,r,s,i,G;
