@@ -25,9 +25,9 @@ end proc:
 
 # Finds a matrix of full rank with the same row space as Gamma
 RowReduce := proc(Gamma)
-	local r:
-	LinearAlgebra[RowSpace](Gamma):
-	return <seq(<r>,r in %)>:
+	local r, row_space:
+	row_space := LinearAlgebra[RowSpace](Gamma):
+	return <seq(<r>,r in row_space)>:
 end proc:
 
 # Checks whether Gamma has a positive vector in its kernel
