@@ -5,7 +5,7 @@ ConservedQuantities := proc(N)
 
 	left_kernel := LinearAlgebra[NullSpace](LinearAlgebra[Transpose](N)):
 
-	return Matrix([seq(convert(v,list),v in %)]):
+	return Matrix([seq(convert(v,list),v in left_kernel)]):
 
 end proc:
 
