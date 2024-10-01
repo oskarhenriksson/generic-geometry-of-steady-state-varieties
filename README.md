@@ -58,9 +58,9 @@ true
 We could also do these checks on the level of the matrices that describe the associated augmented vertical system:
 
 ```julia
-N = matrix(QQ,netstoichmat(rn))
-B = matrix(ZZ,substoichmat(rn))
-L = martix(QQ,conservationlaws(rn))
+N = matrix(QQ, netstoichmat(rn))
+B = matrix(ZZ, substoichmat(rn))
+L = martix(QQ, conservationlaws(rn))
 
 has_nondegenerate_zero(N, B, L)
 generic_local_acr(N, B, 1)
