@@ -9,6 +9,7 @@ The repository contains the following files:
 * A file `investigated_models.csv` with all networks in [ODEbase](https://www.odebase.org/) (as of November 2, 2023) with at least one reaction.
 * A file `nondegenerate_networks` with all networks from `investigated_models.csv` that admit a positive nondegenerate steady state.
 * A file `degenerate_networks` with all networks from `investigated_models.csv` that have a positive steady states, but all of them are degenerate.
+* A file `degenerate_networks` with all networks from `investigated_models.csv` that admit a nondegenerate positive steady states, is not of full rank, and have generic local ACR in at least one speceis.
 
 ## Julia example
 
