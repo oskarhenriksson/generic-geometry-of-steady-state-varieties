@@ -1,6 +1,10 @@
 # Dimension and degeneracy of zeros of parametric polynomial systems arising from reaction networks
-This repository contains files for the manuscript [Dimension and degeneracy of zeros of parametric polynomial systems arising from reaction networks
-](https://arxiv.org/abs/2304.02302) (2304.02302) by Elisenda Feliu, Oskar Henriksson, and Beatriz Pascual-Escudero.
+This repository contains files for the manuscript [Generic consistency and nondegeneracy of vertically parametrized systems
+](https://arxiv.org/abs/2304.02302) (2304.02302) by Elisenda Feliu, Oskar Henriksson, and Beatriz Pascual-Escudero, as well 
+as a forthcoming manuscript on applications to chemical reaction network theory.
+
+> [!WARNING]  
+> Parts of the code is still experimental. Use at own risk!
 
 ## File descriptions
 The repository contains the following files:
