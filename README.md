@@ -4,13 +4,13 @@ This repository contains files for the manuscript [Dimension and degeneracy of z
 
 ## File descriptions
 The repository contains the following files:
-* A Maple file `maple/functions.mpl` that contains functions for testing whether a network admits positive nondegenerate steady states when modeled with mass action kinetics.
-* An analogous file `julia/functions.jl` for an implementation in Julia, using the packages Oscar and Catalyst.
+* A Julia file `functions.jl` that contains functions for testing whether a network admits positive nondegenerate steady states when modeled with generalized) mass action kinetics.
+* An analogous Maple file `functions.mpl`.
 * A file `investigated_models.csv` with all networks in [ODEbase](https://www.odebase.org/) (as of November 2, 2023) with at least one reaction.
 * A file `nondegenerate_networks` with all networks from `investigated_models.csv` that admit a positive nondegenerate steady state.
 * A file `degenerate_networks` with all networks from `investigated_models.csv` that have a positive steady states, but all of them are degenerate.
 
-## Example
+## Maple example
 Suppose we want to investigate the properties of a network with the following stoichiometric matrix and reactant matrix (this corresponds to the network `BIOMD0000000520` in ODEbase):
 
 ```
