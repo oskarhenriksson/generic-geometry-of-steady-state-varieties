@@ -14,13 +14,13 @@ The repository contains the following files:
 
 We begin by loading the functions:
 
-```
+```julia
 include("functions.jl");
 ```
 
 Consider the following isocitrate dehydrogenase that appears in Shinar–Feinberg's work on absolute concentration robustness, entered in catalyst format.
 
-julia```
+```julia
 rn = @reaction_network begin 
     k1, X1 + X2 --> X3
     k2, X3 --> X1 + X2
@@ -33,21 +33,21 @@ end;
 
 The following command returns `true`, which means that the network admits positive steady states:
 
-julia```
+```
 julia> is_consistent(rn)
 true
 ```
 
 The following command returns `true`, which means that there is a nondegenerate steady state with respect to its stoichiometric compatibility classes:
 
-julia```
+```
 julia> has_nondegenerate_steady_state(rn, use_conservation_laws=true)
 true
 ```
 
 We check for generic local ACR with respect to the first and fourth species:
 
-julia```
+```
 julia> generic_local_acr(rn, 1)
 false
 
@@ -57,7 +57,7 @@ true
 
 We could also do these checks on the level of the matrices that describe the associated augmented vertical system:
 
-julia```
+```
 
 N = matrix(QQ,netstoichmat(rn))
 B = matrix(ZZ,substoichmat(rn))
