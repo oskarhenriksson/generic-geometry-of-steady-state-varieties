@@ -33,21 +33,21 @@ end;
 
 The following command returns `true`, which means that the network admits positive steady states:
 
-```
+```julia
 julia> is_consistent(rn)
 true
 ```
 
 The following command returns `true`, which means that there is a nondegenerate steady state with respect to its stoichiometric compatibility classes:
 
-```
+```julia
 julia> has_nondegenerate_steady_state(rn, use_conservation_laws=true)
 true
 ```
 
 We check for generic local ACR with respect to the first and fourth species:
 
-```
+```julia
 julia> generic_local_acr(rn, 1)
 false
 
@@ -57,8 +57,7 @@ true
 
 We could also do these checks on the level of the matrices that describe the associated augmented vertical system:
 
-```
-
+```julia
 N = matrix(QQ,netstoichmat(rn))
 B = matrix(ZZ,substoichmat(rn))
 L = martix(QQ,conservationlaws(rn))
