@@ -19,6 +19,8 @@ The repository contains the following files:
 
 The Julia portion of the code is based on Catalyst v14.4.1 and Oscar v1.1.1. For exact dependencies, see the file `Manifest.toml`.
 
+The Maple portion of the code relies on Maple 2023.
+
 ## Julia example
 
 We begin by loading the functions:
