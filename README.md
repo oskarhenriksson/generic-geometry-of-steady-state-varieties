@@ -8,12 +8,13 @@ as a forthcoming manuscript on applications to chemical reaction network theory.
 
 ## File descriptions
 The repository contains the following files:
-* A Julia file `functions.jl` that contains functions for testing whether a network admits positive nondegenerate steady states when modeled with generalized) mass action kinetics.
-* An analogous Maple file `functions.mpl`.
-* A file `investigated_models.csv` with all networks in [ODEbase](https://www.odebase.org/) (as of November 2, 2023) with at least one reaction.
-* A file `nondegenerate_networks` with all networks from `investigated_models.csv` that admit a positive nondegenerate steady state.
-* A file `degenerate_networks` with all networks from `investigated_models.csv` that have a positive steady states, but all of them are degenerate.
-* A file `generic_local_acr` with all networks from `investigated_models.csv` that admit nondegenerate positive steady states, is not of full rank, and have generic local ACR in at least one speceis.
+* A Julia file `julia/functions.jl` that contains functions for testing whether a network admits positive nondegenerate steady states when modeled with generalized) mass action kinetics.
+* An analogous Maple file `maple/functions.mpl`.
+* A directory `results` that contains the following files:
+    -  `investigated_models.csv` with all networks in [ODEbase](https://www.odebase.org/) (as of November 2, 2023) with at least one reaction.
+    -  `nondegenerate_networks` with all networks from `investigated_models.csv` that admit a positive nondegenerate steady state.
+    -  `degenerate_networks` with all networks from `investigated_models.csv` that have a positive steady states, but all of them are degenerate.
+    -  `generic_local_acr` with all networks from `investigated_models.csv` that admit nondegenerate positive steady states, is not of full rank, and have generic local ACR in at least one speceis.
 
 ## Dependencies
 
