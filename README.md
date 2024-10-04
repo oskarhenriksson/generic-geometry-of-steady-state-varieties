@@ -15,6 +15,10 @@ The repository contains the following files:
 * A file `degenerate_networks` with all networks from `investigated_models.csv` that have a positive steady states, but all of them are degenerate.
 * A file `generic_local_acr` with all networks from `investigated_models.csv` that admit nondegenerate positive steady states, is not of full rank, and have generic local ACR in at least one speceis.
 
+## Dependencies
+
+The Julia portion of the code is based on Catalyst v14.4.1 and Oscar v1.1.1. For exact dependencies, see the file `Manifest.toml`.
+
 ## Julia example
 
 We begin by loading the functions:
