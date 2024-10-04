@@ -1,0 +1,3374 @@
+
+BIOMD0000000002
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000003
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000004
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X1
+
+BIOMD0000000006
+Irrelevant species (ignored in subsequent analysis): [4]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000008
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000009
+Irrelevant species (ignored in subsequent analysis): [23, 24, 25, 26]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000010
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000011
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000013
+Inconsistent
+
+BIOMD0000000014
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000015
+Irrelevant species (ignored in subsequent analysis): [18]
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000017
+Inconsistent
+
+BIOMD0000000019
+Irrelevant species (ignored in subsequent analysis): [95, 96, 97, 98, 99, 100]
+Inconsistent
+
+BIOMD0000000021
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000022
+Irrelevant species (ignored in subsequent analysis): [13]
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000023
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000024
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000026
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000027
+Irrelevant species (ignored in subsequent analysis): [4, 5]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000028
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000029
+Irrelevant species (ignored in subsequent analysis): [5, 6]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000030
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000031
+Irrelevant species (ignored in subsequent analysis): [4, 5, 6]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000032
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X1
+Generic local ACR wrt X2
+Generic local ACR wrt X3
+Generic local ACR wrt X36
+Generic local ACR wrt X37
+
+BIOMD0000000033
+Irrelevant species (ignored in subsequent analysis): [13, 30, 31, 32]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000035
+Inconsistent
+
+BIOMD0000000036
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000037
+Inconsistent
+
+BIOMD0000000038
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000039
+Error reading matrices
+
+BIOMD0000000040
+Inconsistent
+
+BIOMD0000000041
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000042
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000043
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000044
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X3
+
+BIOMD0000000045
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000046
+Inconsistent
+
+BIOMD0000000048
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000049
+Irrelevant species (ignored in subsequent analysis): [29, 31]
+Inconsistent
+
+BIOMD0000000050
+Inconsistent
+
+BIOMD0000000052
+Inconsistent
+
+BIOMD0000000053
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000054
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000055
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000057
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000058
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000060
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000061
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X7
+
+BIOMD0000000062
+Irrelevant species (ignored in subsequent analysis): [3, 4]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000064
+Irrelevant species (ignored in subsequent analysis): [22, 23, 24, 25, 26]
+Inconsistent
+
+BIOMD0000000065
+Irrelevant species (ignored in subsequent analysis): [9]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000066
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000067
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000068
+Irrelevant species (ignored in subsequent analysis): [7, 8, 9]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000069
+Inconsistent
+
+BIOMD0000000070
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X1
+Generic local ACR wrt X44
+
+BIOMD0000000072
+Inconsistent
+
+BIOMD0000000073
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000074
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000075
+Irrelevant species (ignored in subsequent analysis): [4, 9, 10]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X10
+
+BIOMD0000000076
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000078
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000079
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000080
+Inconsistent
+
+BIOMD0000000082
+Inconsistent
+
+BIOMD0000000083
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000084
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000085
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000086
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000089
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000090
+Inconsistent
+
+BIOMD0000000091
+Irrelevant species (ignored in subsequent analysis): [16]
+Inconsistent
+
+BIOMD0000000092
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000093
+Inconsistent
+
+BIOMD0000000098
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000099
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000100
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X3
+Generic local ACR wrt X5
+
+BIOMD0000000102
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000103
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000105
+Inconsistent
+
+BIOMD0000000106
+Irrelevant species (ignored in subsequent analysis): [7, 10, 11, 16, 17, 18]
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000107
+Inconsistent
+
+BIOMD0000000108
+Irrelevant species (ignored in subsequent analysis): [8, 9]
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000110
+Irrelevant species (ignored in subsequent analysis): [3, 4, 15]
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000112
+Inconsistent
+
+BIOMD0000000113
+Irrelevant species (ignored in subsequent analysis): [3]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000114
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000115
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000116
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000123
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000143
+Inconsistent
+
+BIOMD0000000145
+Error reading matrices
+
+BIOMD0000000146
+Irrelevant species (ignored in subsequent analysis): [34, 35, 36]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000147
+Inconsistent
+
+BIOMD0000000151
+Error reading matrices
+
+BIOMD0000000154
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000156
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000157
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000159
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000161
+Irrelevant species (ignored in subsequent analysis): [4, 34]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X15
+Generic local ACR wrt X20
+Generic local ACR wrt X23
+Generic local ACR wrt X32
+
+BIOMD0000000162
+Irrelevant species (ignored in subsequent analysis): [1, 7]
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000163
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X5
+Generic local ACR wrt X6
+Generic local ACR wrt X7
+Generic local ACR wrt X8
+Generic local ACR wrt X9
+Generic local ACR wrt X10
+Generic local ACR wrt X11
+Generic local ACR wrt X12
+Generic local ACR wrt X13
+Generic local ACR wrt X16
+
+BIOMD0000000164
+Irrelevant species (ignored in subsequent analysis): [3, 8, 25]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X15
+
+BIOMD0000000165
+Irrelevant species (ignored in subsequent analysis): [18]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X2
+Generic local ACR wrt X8
+Generic local ACR wrt X16
+Generic local ACR wrt X23
+Generic local ACR wrt X35
+
+BIOMD0000000166
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000167
+Irrelevant species (ignored in subsequent analysis): [3, 8]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X7
+
+BIOMD0000000169
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000170
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000171
+Irrelevant species (ignored in subsequent analysis): [11, 12]
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000172
+Irrelevant species (ignored in subsequent analysis): [9]
+Inconsistent
+
+BIOMD0000000173
+Inconsistent
+
+BIOMD0000000174
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000176
+Irrelevant species (ignored in subsequent analysis): [7]
+Inconsistent
+
+BIOMD0000000177
+Irrelevant species (ignored in subsequent analysis): [7]
+Inconsistent
+
+BIOMD0000000178
+Irrelevant species (ignored in subsequent analysis): [1]
+Linear kinetics
+Inconsistent
+
+BIOMD0000000181
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000182
+Irrelevant species (ignored in subsequent analysis): [9, 11, 26, 34, 36]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000184
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000185
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000191
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000192
+Irrelevant species (ignored in subsequent analysis): [9]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000198
+Irrelevant species (ignored in subsequent analysis): [11, 12]
+Inconsistent
+
+BIOMD0000000199
+Error reading matrices
+
+BIOMD0000000200
+Irrelevant species (ignored in subsequent analysis): [22]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000201
+Irrelevant species (ignored in subsequent analysis): [17, 18, 19, 20, 21, 22, 23, 25, 26]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X1
+Generic local ACR wrt X2
+Generic local ACR wrt X3
+Generic local ACR wrt X4
+Generic local ACR wrt X5
+Generic local ACR wrt X6
+Generic local ACR wrt X7
+Generic local ACR wrt X8
+Generic local ACR wrt X10
+Generic local ACR wrt X11
+Generic local ACR wrt X12
+Generic local ACR wrt X13
+Generic local ACR wrt X14
+Generic local ACR wrt X15
+Generic local ACR wrt X16
+
+BIOMD0000000203
+Irrelevant species (ignored in subsequent analysis): [6, 7]
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000204
+Irrelevant species (ignored in subsequent analysis): [6, 7]
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000205
+Inconsistent
+
+BIOMD0000000206
+Error reading matrices
+
+BIOMD0000000208
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000209
+Irrelevant species (ignored in subsequent analysis): [7, 9, 10, 11, 12, 19, 20]
+Linear kinetics
+Inconsistent
+
+BIOMD0000000210
+Irrelevant species (ignored in subsequent analysis): [7, 9, 10, 17, 18]
+Linear kinetics
+Inconsistent
+
+BIOMD0000000211
+Inconsistent
+
+BIOMD0000000212
+Irrelevant species (ignored in subsequent analysis): [2, 4, 6, 7, 8, 10, 12, 13, 16, 17, 18, 19, 20, 22, 24, 28, 30]
+Linear kinetics
+Inconsistent
+
+BIOMD0000000213
+Irrelevant species (ignored in subsequent analysis): [7, 8, 9, 10, 11, 12, 13, 14]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000214
+Irrelevant species (ignored in subsequent analysis): [13, 14, 15, 16]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000215
+Irrelevant species (ignored in subsequent analysis): [3]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000216
+Irrelevant species (ignored in subsequent analysis): [6]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X1
+
+BIOMD0000000217
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X22
+
+BIOMD0000000218
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X2
+Generic local ACR wrt X4
+Generic local ACR wrt X5
+Generic local ACR wrt X6
+Generic local ACR wrt X7
+Generic local ACR wrt X8
+Generic local ACR wrt X9
+Generic local ACR wrt X10
+Generic local ACR wrt X11
+Generic local ACR wrt X12
+Generic local ACR wrt X13
+
+BIOMD0000000219
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X2
+Generic local ACR wrt X4
+Generic local ACR wrt X5
+Generic local ACR wrt X6
+Generic local ACR wrt X7
+Generic local ACR wrt X8
+Generic local ACR wrt X9
+Generic local ACR wrt X10
+Generic local ACR wrt X11
+Generic local ACR wrt X12
+Generic local ACR wrt X13
+
+BIOMD0000000220
+Inconsistent
+
+BIOMD0000000221
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X2
+Generic local ACR wrt X4
+Generic local ACR wrt X5
+Generic local ACR wrt X6
+Generic local ACR wrt X7
+Generic local ACR wrt X8
+Generic local ACR wrt X9
+Generic local ACR wrt X10
+Generic local ACR wrt X11
+Generic local ACR wrt X12
+
+BIOMD0000000222
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X2
+Generic local ACR wrt X4
+Generic local ACR wrt X5
+Generic local ACR wrt X6
+Generic local ACR wrt X7
+Generic local ACR wrt X8
+Generic local ACR wrt X9
+Generic local ACR wrt X10
+Generic local ACR wrt X11
+Generic local ACR wrt X12
+
+BIOMD0000000224
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X2
+Generic local ACR wrt X4
+
+BIOMD0000000225
+Irrelevant species (ignored in subsequent analysis): [3]
+Linear kinetics
+Inconsistent
+
+BIOMD0000000226
+Inconsistent
+
+BIOMD0000000228
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000229
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000230
+Inconsistent
+
+BIOMD0000000231
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X4
+
+BIOMD0000000233
+Inconsistent
+
+BIOMD0000000236
+Irrelevant species (ignored in subsequent analysis): [3, 5, 6]
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000237
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000239
+Inconsistent
+
+BIOMD0000000240
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000242
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000243
+Inconsistent
+
+BIOMD0000000247
+Irrelevant species (ignored in subsequent analysis): [31]
+Inconsistent
+
+BIOMD0000000249
+Irrelevant species (ignored in subsequent analysis): [1]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000250
+Irrelevant species (ignored in subsequent analysis): [1, 2]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X7
+Generic local ACR wrt X11
+Generic local ACR wrt X12
+Generic local ACR wrt X13
+Generic local ACR wrt X14
+Generic local ACR wrt X15
+Generic local ACR wrt X20
+Generic local ACR wrt X21
+Generic local ACR wrt X33
+Generic local ACR wrt X34
+Generic local ACR wrt X35
+Generic local ACR wrt X36
+Generic local ACR wrt X37
+Generic local ACR wrt X44
+Generic local ACR wrt X45
+Generic local ACR wrt X46
+
+BIOMD0000000251
+Irrelevant species (ignored in subsequent analysis): [10]
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000252
+Error reading matrices
+
+BIOMD0000000253
+Irrelevant species (ignored in subsequent analysis): [5]
+Inconsistent
+
+BIOMD0000000254
+Error reading matrices
+
+BIOMD0000000257
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000258
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000259
+Linear kinetics
+Inconsistent
+
+BIOMD0000000260
+Linear kinetics
+Inconsistent
+
+BIOMD0000000261
+Linear kinetics
+Inconsistent
+
+BIOMD0000000262
+Inconsistent
+
+BIOMD0000000263
+Inconsistent
+
+BIOMD0000000264
+Inconsistent
+
+BIOMD0000000267
+Linear kinetics
+Inconsistent
+
+BIOMD0000000268
+Irrelevant species (ignored in subsequent analysis): [7]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000269
+Irrelevant species (ignored in subsequent analysis): [6, 11, 14]
+Linear kinetics
+Inconsistent
+
+BIOMD0000000270
+Irrelevant species (ignored in subsequent analysis): [33]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000271
+Inconsistent
+
+BIOMD0000000272
+Inconsistent
+
+BIOMD0000000274
+Error reading matrices
+
+BIOMD0000000275
+Irrelevant species (ignored in subsequent analysis): [5]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000278
+Error reading matrices
+
+BIOMD0000000282
+Inconsistent
+
+BIOMD0000000283
+Inconsistent
+
+BIOMD0000000284
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000286
+Irrelevant species (ignored in subsequent analysis): [10, 22]
+Inconsistent
+
+BIOMD0000000288
+Irrelevant species (ignored in subsequent analysis): [2, 3, 5, 7, 12, 15]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000289
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000290
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000291
+Error reading matrices
+
+BIOMD0000000292
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000294
+Irrelevant species (ignored in subsequent analysis): [1]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000295
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000296
+Irrelevant species (ignored in subsequent analysis): [1]
+Linear kinetics
+Inconsistent
+
+BIOMD0000000298
+Error reading matrices
+
+BIOMD0000000299
+Error reading matrices
+
+BIOMD0000000300
+Irrelevant species (ignored in subsequent analysis): [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000303
+Irrelevant species (ignored in subsequent analysis): [38]
+Inconsistent
+
+BIOMD0000000306
+Irrelevant species (ignored in subsequent analysis): [3]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X1
+Generic local ACR wrt X2
+
+BIOMD0000000307
+Irrelevant species (ignored in subsequent analysis): [3]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X1
+Generic local ACR wrt X2
+
+BIOMD0000000308
+Irrelevant species (ignored in subsequent analysis): [4]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X2
+
+BIOMD0000000309
+Irrelevant species (ignored in subsequent analysis): [2]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X1
+
+BIOMD0000000310
+Irrelevant species (ignored in subsequent analysis): [2]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X1
+
+BIOMD0000000311
+Irrelevant species (ignored in subsequent analysis): [2]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X1
+
+BIOMD0000000312
+Irrelevant species (ignored in subsequent analysis): [3]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000313
+Irrelevant species (ignored in subsequent analysis): [8, 16]
+Linear kinetics
+Inconsistent
+
+BIOMD0000000314
+Irrelevant species (ignored in subsequent analysis): [8, 12]
+Linear kinetics
+Inconsistent
+
+BIOMD0000000315
+Inconsistent
+
+BIOMD0000000319
+Error reading matrices
+
+BIOMD0000000320
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000321
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000322
+Linear kinetics
+(Effectively) full rank
+Consistent
+Degenerate
+
+BIOMD0000000323
+Linear kinetics
+(Effectively) full rank
+Consistent
+Degenerate
+
+BIOMD0000000325
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000328
+Linear kinetics
+Inconsistent
+
+BIOMD0000000329
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000332
+Irrelevant species (ignored in subsequent analysis): [39]
+Inconsistent
+
+BIOMD0000000333
+Inconsistent
+
+BIOMD0000000334
+Irrelevant species (ignored in subsequent analysis): [39]
+Inconsistent
+
+BIOMD0000000335
+Inconsistent
+
+BIOMD0000000341
+Error reading matrices
+
+BIOMD0000000346
+Error reading matrices
+
+BIOMD0000000347
+Irrelevant species (ignored in subsequent analysis): [26]
+Linear kinetics
+Inconsistent
+
+BIOMD0000000350
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000353
+Error reading matrices
+
+BIOMD0000000354
+Irrelevant species (ignored in subsequent analysis): [4]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000355
+Irrelevant species (ignored in subsequent analysis): [7]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000357
+Inconsistent
+
+BIOMD0000000358
+Irrelevant species (ignored in subsequent analysis): [12]
+Inconsistent
+
+BIOMD0000000359
+Inconsistent
+
+BIOMD0000000360
+Inconsistent
+
+BIOMD0000000361
+Inconsistent
+
+BIOMD0000000362
+Inconsistent
+
+BIOMD0000000363
+Linear kinetics
+Inconsistent
+
+BIOMD0000000364
+Irrelevant species (ignored in subsequent analysis): [14]
+Inconsistent
+
+BIOMD0000000365
+Inconsistent
+
+BIOMD0000000366
+Irrelevant species (ignored in subsequent analysis): [12]
+Inconsistent
+
+BIOMD0000000368
+Error reading matrices
+
+BIOMD0000000369
+Error reading matrices
+
+BIOMD0000000370
+Error reading matrices
+
+BIOMD0000000383
+Error reading matrices
+
+BIOMD0000000384
+Error reading matrices
+
+BIOMD0000000388
+Error reading matrices
+
+BIOMD0000000389
+Inconsistent
+
+BIOMD0000000390
+Irrelevant species (ignored in subsequent analysis): [8]
+Inconsistent
+
+BIOMD0000000391
+Irrelevant species (ignored in subsequent analysis): [22]
+Inconsistent
+
+BIOMD0000000396
+Irrelevant species (ignored in subsequent analysis): [1, 6, 8, 18, 24, 30, 35]
+Inconsistent
+
+BIOMD0000000397
+Irrelevant species (ignored in subsequent analysis): [49]
+Inconsistent
+
+BIOMD0000000399
+Irrelevant species (ignored in subsequent analysis): [95, 96, 97, 98, 99, 100]
+Inconsistent
+
+BIOMD0000000400
+Error reading matrices
+
+BIOMD0000000405
+Irrelevant species (ignored in subsequent analysis): [6]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000406
+Irrelevant species (ignored in subsequent analysis): [1, 2, 6, 16, 43, 47]
+Inconsistent
+
+BIOMD0000000407
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000409
+Irrelevant species (ignored in subsequent analysis): [22, 24]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X1
+Generic local ACR wrt X2
+Generic local ACR wrt X3
+Generic local ACR wrt X4
+Generic local ACR wrt X7
+Generic local ACR wrt X8
+Generic local ACR wrt X9
+Generic local ACR wrt X10
+Generic local ACR wrt X11
+Generic local ACR wrt X14
+Generic local ACR wrt X15
+Generic local ACR wrt X16
+Generic local ACR wrt X21
+
+BIOMD0000000410
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X6
+
+BIOMD0000000411
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000413
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X1
+
+BIOMD0000000414
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000415
+Error reading matrices
+
+BIOMD0000000416
+Irrelevant species (ignored in subsequent analysis): [13, 14, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000423
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000424
+Inconsistent
+
+BIOMD0000000425
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000426
+Error reading matrices
+
+BIOMD0000000427
+Inconsistent
+
+BIOMD0000000428
+Irrelevant species (ignored in subsequent analysis): [21]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000430
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000431
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000432
+Irrelevant species (ignored in subsequent analysis): [9, 10, 11]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000433
+Irrelevant species (ignored in subsequent analysis): [9, 10, 11]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000434
+Irrelevant species (ignored in subsequent analysis): [14, 15, 22, 24, 31, 33, 34]
+Inconsistent
+
+BIOMD0000000435
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000440
+Irrelevant species (ignored in subsequent analysis): [9, 10, 11]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000441
+Irrelevant species (ignored in subsequent analysis): [9, 10, 11]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000442
+Irrelevant species (ignored in subsequent analysis): [9, 10, 11]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000443
+Irrelevant species (ignored in subsequent analysis): [9, 10, 11, 16]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X10
+Generic local ACR wrt X11
+Generic local ACR wrt X12
+Generic local ACR wrt X15
+
+BIOMD0000000444
+Irrelevant species (ignored in subsequent analysis): [9, 10, 11]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X10
+Generic local ACR wrt X11
+Generic local ACR wrt X12
+Generic local ACR wrt X13
+
+BIOMD0000000446
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000447
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000448
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000449
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000451
+Irrelevant species (ignored in subsequent analysis): [12, 13]
+Inconsistent
+
+BIOMD0000000452
+Irrelevant species (ignored in subsequent analysis): [88]
+Inconsistent
+
+BIOMD0000000453
+Irrelevant species (ignored in subsequent analysis): [88]
+Inconsistent
+
+BIOMD0000000454
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000455
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000456
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000457
+Irrelevant species (ignored in subsequent analysis): [26]
+Inconsistent
+
+BIOMD0000000458
+Irrelevant species (ignored in subsequent analysis): [5, 6, 7]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000459
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000460
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000461
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000462
+Inconsistent
+
+BIOMD0000000463
+Error reading matrices
+
+BIOMD0000000464
+Irrelevant species (ignored in subsequent analysis): [1, 14]
+Linear kinetics
+Inconsistent
+
+BIOMD0000000465
+Irrelevant species (ignored in subsequent analysis): [2, 5, 11, 16]
+Inconsistent
+
+BIOMD0000000466
+Irrelevant species (ignored in subsequent analysis): [34]
+Inconsistent
+
+BIOMD0000000467
+Irrelevant species (ignored in subsequent analysis): [1, 2]
+Inconsistent
+
+BIOMD0000000468
+Irrelevant species (ignored in subsequent analysis): [1, 15, 18, 24, 79]
+Inconsistent
+
+BIOMD0000000474
+Irrelevant species (ignored in subsequent analysis): [10, 11, 12, 17, 18, 28, 31, 33, 41, 47, 52, 54, 57, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133]
+Inconsistent
+
+BIOMD0000000475
+Inconsistent
+
+BIOMD0000000476
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000477
+Linear kinetics
+Inconsistent
+
+BIOMD0000000478
+Inconsistent
+
+BIOMD0000000482
+Inconsistent
+
+BIOMD0000000483
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000484
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000485
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000486
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000487
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000489
+Inconsistent
+
+BIOMD0000000491
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000492
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000498
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000499
+Error reading matrices
+
+BIOMD0000000500
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000501
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000502
+Irrelevant species (ignored in subsequent analysis): [13, 14, 15, 16, 17, 18, 19, 20, 21]
+Inconsistent
+
+BIOMD0000000504
+Irrelevant species (ignored in subsequent analysis): [37]
+Inconsistent
+
+BIOMD0000000505
+Irrelevant species (ignored in subsequent analysis): [46, 47, 48, 49, 50, 51, 52, 53, 54]
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000506
+Irrelevant species (ignored in subsequent analysis): [46, 47, 48, 49, 50, 51, 52, 53, 54]
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000507
+Irrelevant species (ignored in subsequent analysis): [3]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000510
+Irrelevant species (ignored in subsequent analysis): [12]
+Inconsistent
+
+BIOMD0000000511
+Irrelevant species (ignored in subsequent analysis): [12]
+Inconsistent
+
+BIOMD0000000512
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000513
+Irrelevant species (ignored in subsequent analysis): [11, 23, 24]
+Inconsistent
+
+BIOMD0000000514
+Irrelevant species (ignored in subsequent analysis): [11]
+Inconsistent
+
+BIOMD0000000515
+Irrelevant species (ignored in subsequent analysis): [16]
+Inconsistent
+
+BIOMD0000000516
+Irrelevant species (ignored in subsequent analysis): [15]
+Inconsistent
+
+BIOMD0000000517
+Linear kinetics
+(Effectively) full rank
+Consistent
+Degenerate
+
+BIOMD0000000518
+Linear kinetics
+(Effectively) full rank
+Consistent
+Degenerate
+
+BIOMD0000000519
+Linear kinetics
+(Effectively) full rank
+Consistent
+Degenerate
+
+BIOMD0000000520
+Linear kinetics
+(Effectively) full rank
+Consistent
+Degenerate
+
+BIOMD0000000521
+Error reading matrices
+
+BIOMD0000000522
+Error reading matrices
+
+BIOMD0000000523
+Irrelevant species (ignored in subsequent analysis): [1, 18]
+Inconsistent
+
+BIOMD0000000524
+Irrelevant species (ignored in subsequent analysis): [1, 18]
+Inconsistent
+
+BIOMD0000000525
+Irrelevant species (ignored in subsequent analysis): [1, 18]
+Inconsistent
+
+BIOMD0000000526
+Irrelevant species (ignored in subsequent analysis): [1, 18]
+Inconsistent
+
+BIOMD0000000530
+Irrelevant species (ignored in subsequent analysis): [7, 8, 9]
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000533
+Error reading matrices
+
+BIOMD0000000538
+Error reading matrices
+
+BIOMD0000000539
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X1
+Generic local ACR wrt X4
+Generic local ACR wrt X5
+Generic local ACR wrt X6
+
+BIOMD0000000543
+Irrelevant species (ignored in subsequent analysis): [91, 92]
+Inconsistent
+
+BIOMD0000000544
+Irrelevant species (ignored in subsequent analysis): [89, 90]
+Inconsistent
+
+BIOMD0000000545
+Irrelevant species (ignored in subsequent analysis): [9, 10, 12]
+Inconsistent
+
+BIOMD0000000548
+Error reading matrices
+
+BIOMD0000000549
+Error reading matrices
+
+BIOMD0000000550
+Error reading matrices
+
+BIOMD0000000552
+Irrelevant species (ignored in subsequent analysis): [3]
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000553
+Irrelevant species (ignored in subsequent analysis): [3]
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000557
+Irrelevant species (ignored in subsequent analysis): [20, 21, 22, 23, 24, 25]
+Inconsistent
+
+BIOMD0000000558
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000559
+Inconsistent
+
+BIOMD0000000560
+Inconsistent
+
+BIOMD0000000561
+Error reading matrices
+
+BIOMD0000000565
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000567
+Inconsistent
+
+BIOMD0000000572
+Inconsistent
+
+BIOMD0000000573
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000576
+Inconsistent
+
+BIOMD0000000580
+Irrelevant species (ignored in subsequent analysis): [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000581
+Irrelevant species (ignored in subsequent analysis): [28]
+Inconsistent
+
+BIOMD0000000582
+Irrelevant species (ignored in subsequent analysis): [24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+Linear kinetics
+Inconsistent
+
+BIOMD0000000583
+Irrelevant species (ignored in subsequent analysis): [21]
+Inconsistent
+
+BIOMD0000000585
+Error reading matrices
+
+BIOMD0000000588
+Inconsistent
+
+BIOMD0000000590
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000594
+Irrelevant species (ignored in subsequent analysis): [4, 5, 6, 7]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000599
+Inconsistent
+
+BIOMD0000000600
+Inconsistent
+
+BIOMD0000000602
+Inconsistent
+
+BIOMD0000000608
+Error reading matrices
+
+BIOMD0000000609
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000614
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000615
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000616
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000622
+Irrelevant species (ignored in subsequent analysis): [5]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X1
+Generic local ACR wrt X2
+Generic local ACR wrt X3
+Generic local ACR wrt X4
+Generic local ACR wrt X5
+Generic local ACR wrt X6
+Generic local ACR wrt X7
+Generic local ACR wrt X8
+
+BIOMD0000000623
+Irrelevant species (ignored in subsequent analysis): [27, 28, 29, 30]
+Inconsistent
+
+BIOMD0000000624
+Inconsistent
+
+BIOMD0000000625
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000626
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000629
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000630
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000631
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000637
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000638
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000639
+Inconsistent
+
+BIOMD0000000640
+Irrelevant species (ignored in subsequent analysis): [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000641
+Error reading matrices
+
+BIOMD0000000642
+Error reading matrices
+
+BIOMD0000000646
+Irrelevant species (ignored in subsequent analysis): [10, 11, 12, 15, 16, 17, 18]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X1
+Generic local ACR wrt X2
+Generic local ACR wrt X3
+Generic local ACR wrt X4
+Generic local ACR wrt X5
+Generic local ACR wrt X8
+
+BIOMD0000000647
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000648
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X12
+Generic local ACR wrt X14
+
+BIOMD0000000651
+Inconsistent
+
+BIOMD0000000652
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X12
+Generic local ACR wrt X14
+
+BIOMD0000000653
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X12
+Generic local ACR wrt X14
+
+BIOMD0000000654
+Irrelevant species (ignored in subsequent analysis): [29]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X12
+Generic local ACR wrt X14
+
+BIOMD0000000655
+Irrelevant species (ignored in subsequent analysis): [22]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X12
+Generic local ACR wrt X14
+
+BIOMD0000000656
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X14
+
+BIOMD0000000657
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000658
+Irrelevant species (ignored in subsequent analysis): [16]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X12
+
+BIOMD0000000660
+Irrelevant species (ignored in subsequent analysis): [15, 16, 18, 19, 20]
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000661
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000662
+Linear kinetics
+Inconsistent
+
+BIOMD0000000663
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000664
+Irrelevant species (ignored in subsequent analysis): [6, 8]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000665
+Irrelevant species (ignored in subsequent analysis): [8]
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000666
+Irrelevant species (ignored in subsequent analysis): [24, 25, 26, 27, 31, 36, 37, 38, 39, 40]
+Inconsistent
+
+BIOMD0000000667
+Irrelevant species (ignored in subsequent analysis): [1]
+Inconsistent
+
+BIOMD0000000668
+Irrelevant species (ignored in subsequent analysis): [1, 2, 3, 4]
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000670
+Error reading matrices
+
+BIOMD0000000671
+Error reading matrices
+
+BIOMD0000000676
+Irrelevant species (ignored in subsequent analysis): [12]
+Inconsistent
+
+BIOMD0000000678
+Irrelevant species (ignored in subsequent analysis): [4]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000679
+Irrelevant species (ignored in subsequent analysis): [1]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000680
+Error reading matrices
+
+BIOMD0000000683
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000687
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000688
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000689
+Inconsistent
+
+BIOMD0000000690
+Inconsistent
+
+BIOMD0000000691
+Irrelevant species (ignored in subsequent analysis): [14, 15]
+Inconsistent
+
+BIOMD0000000692
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000697
+Irrelevant species (ignored in subsequent analysis): [4, 14, 15]
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000698
+Inconsistent
+
+BIOMD0000000700
+Irrelevant species (ignored in subsequent analysis): [24, 25, 26, 27, 28, 29, 30]
+Inconsistent
+
+BIOMD0000000704
+Irrelevant species (ignored in subsequent analysis): [17]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X1
+Generic local ACR wrt X2
+Generic local ACR wrt X3
+Generic local ACR wrt X4
+Generic local ACR wrt X6
+Generic local ACR wrt X7
+Generic local ACR wrt X8
+Generic local ACR wrt X9
+Generic local ACR wrt X10
+Generic local ACR wrt X11
+Generic local ACR wrt X12
+Generic local ACR wrt X13
+Generic local ACR wrt X15
+Generic local ACR wrt X16
+
+BIOMD0000000705
+Irrelevant species (ignored in subsequent analysis): [15, 16, 17, 18, 19, 20, 21, 22, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43]
+Linear kinetics
+Inconsistent
+
+BIOMD0000000707
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000708
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000709
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000710
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000713
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000714
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000715
+Irrelevant species (ignored in subsequent analysis): [5]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000716
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000717
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000720
+Irrelevant species (ignored in subsequent analysis): [8]
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000721
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000722
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000724
+Irrelevant species (ignored in subsequent analysis): [6, 7, 14, 19, 26, 27, 30, 34, 35, 36, 39]
+Inconsistent
+
+BIOMD0000000725
+Inconsistent
+
+BIOMD0000000726
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000728
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000729
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000730
+Irrelevant species (ignored in subsequent analysis): [45]
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000732
+Linear kinetics
+Inconsistent
+
+BIOMD0000000733
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000737
+Inconsistent
+
+BIOMD0000000738
+Inconsistent
+
+BIOMD0000000740
+Error reading matrices
+
+BIOMD0000000741
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000742
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000743
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000744
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000745
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000746
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000747
+Inconsistent
+
+BIOMD0000000748
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000750
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000751
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000752
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000753
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000754
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000755
+Inconsistent
+
+BIOMD0000000756
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000757
+Irrelevant species (ignored in subsequent analysis): [8, 9, 10]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000758
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000759
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000760
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000761
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000762
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000763
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000764
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000765
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000766
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000767
+Irrelevant species (ignored in subsequent analysis): [2]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000768
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000769
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000770
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000771
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000772
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000773
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000774
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000776
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000777
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000778
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000779
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000780
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000781
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000782
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000783
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000785
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000788
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000790
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000792
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000793
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000795
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000796
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000797
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000798
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000799
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000800
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000801
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000802
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000807
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000808
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000810
+Irrelevant species (ignored in subsequent analysis): [14]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000811
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000812
+Irrelevant species (ignored in subsequent analysis): [5, 6]
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000813
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000815
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000821
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000823
+Irrelevant species (ignored in subsequent analysis): [12]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X14
+Generic local ACR wrt X15
+
+BIOMD0000000824
+Irrelevant species (ignored in subsequent analysis): [1]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000826
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000827
+Inconsistent
+
+BIOMD0000000831
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000832
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000833
+Irrelevant species (ignored in subsequent analysis): [13]
+Inconsistent
+
+BIOMD0000000835
+Irrelevant species (ignored in subsequent analysis): [8, 9, 10, 11, 15, 16, 20, 21, 25, 26, 30, 31, 35, 36, 40, 45, 50, 51, 52, 53, 54]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X1
+Generic local ACR wrt X8
+Generic local ACR wrt X9
+Generic local ACR wrt X30
+Generic local ACR wrt X31
+
+BIOMD0000000836
+Error reading matrices
+
+BIOMD0000000837
+Irrelevant species (ignored in subsequent analysis): [8]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000838
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000839
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000840
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000841
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000842
+Irrelevant species (ignored in subsequent analysis): [19, 20, 21]
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000847
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000848
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000850
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000851
+Linear kinetics
+Inconsistent
+
+BIOMD0000000852
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000853
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X1
+Generic local ACR wrt X2
+Generic local ACR wrt X3
+Generic local ACR wrt X4
+
+BIOMD0000000854
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000855
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000857
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000858
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000859
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000861
+Irrelevant species (ignored in subsequent analysis): [26]
+Linear kinetics
+Inconsistent
+
+BIOMD0000000863
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000866
+Irrelevant species (ignored in subsequent analysis): [4]
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000867
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000868
+Inconsistent
+
+BIOMD0000000869
+Irrelevant species (ignored in subsequent analysis): [4]
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000870
+Inconsistent
+
+BIOMD0000000871
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000874
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000875
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000876
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000877
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000878
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000879
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000880
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000881
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000882
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000883
+Irrelevant species (ignored in subsequent analysis): [21, 24, 25, 27, 28]
+Inconsistent
+
+BIOMD0000000884
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000885
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000886
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000887
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000888
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000889
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000890
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000891
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000892
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000893
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000894
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000895
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000896
+Consistent
+Nondegenerate wrt stoichiometric subspace
+Generic local ACR wrt X1
+Generic local ACR wrt X5
+Generic local ACR wrt X9
+
+BIOMD0000000897
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000898
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000902
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000903
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000904
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000905
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000906
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000907
+Irrelevant species (ignored in subsequent analysis): [26, 27, 28, 29, 30, 31, 32, 33, 34]
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000909
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000910
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000911
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000912
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000913
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000914
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000915
+Linear kinetics
+Inconsistent
+
+BIOMD0000000916
+Linear kinetics
+Inconsistent
+
+BIOMD0000000919
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000920
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000921
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000922
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000924
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000929
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000930
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000932
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000933
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000934
+Irrelevant species (ignored in subsequent analysis): [14, 15, 16]
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000935
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000936
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000937
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000938
+Irrelevant species (ignored in subsequent analysis): [4, 5]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000939
+Irrelevant species (ignored in subsequent analysis): [33, 34, 57, 58, 59, 60]
+Inconsistent
+
+BIOMD0000000940
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000941
+Irrelevant species (ignored in subsequent analysis): [7, 8]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000942
+Irrelevant species (ignored in subsequent analysis): [1, 5, 8, 9, 12, 13, 14, 15, 16, 17, 18]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000944
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000945
+Error reading matrices
+
+BIOMD0000000946
+Error reading matrices
+
+BIOMD0000000947
+Error reading matrices
+
+BIOMD0000000948
+Irrelevant species (ignored in subsequent analysis): [5, 6]
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000949
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000950
+Error reading matrices
+
+BIOMD0000000951
+Inconsistent
+
+BIOMD0000000957
+Linear kinetics
+Inconsistent
+
+BIOMD0000000958
+Linear kinetics
+Inconsistent
+
+BIOMD0000000962
+Irrelevant species (ignored in subsequent analysis): [5]
+Linear kinetics
+Inconsistent
+
+BIOMD0000000964
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000968
+Irrelevant species (ignored in subsequent analysis): [2]
+Inconsistent
+
+BIOMD0000000970
+Irrelevant species (ignored in subsequent analysis): [5]
+Linear kinetics
+Inconsistent
+
+BIOMD0000000972
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000974
+Irrelevant species (ignored in subsequent analysis): [6]
+Linear kinetics
+Inconsistent
+
+BIOMD0000000977
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000000979
+Irrelevant species (ignored in subsequent analysis): [5]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000980
+Irrelevant species (ignored in subsequent analysis): [5]
+Linear kinetics
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000982
+Linear kinetics
+Inconsistent
+
+BIOMD0000000984
+Irrelevant species (ignored in subsequent analysis): [5]
+Linear kinetics
+Inconsistent
+
+BIOMD0000000985
+Inconsistent
+
+BIOMD0000000987
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000989
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000990
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000991
+Irrelevant species (ignored in subsequent analysis): [8]
+Linear kinetics
+Inconsistent
+
+BIOMD0000000997
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000998
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000000999
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000001000
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000001001
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000001002
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000001003
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000001004
+Inconsistent
+
+BIOMD0000001005
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000001010
+Irrelevant species (ignored in subsequent analysis): [2]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000001011
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000001012
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000001013
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000001014
+Irrelevant species (ignored in subsequent analysis): [5]
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000001016
+Irrelevant species (ignored in subsequent analysis): [8]
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000001017
+Irrelevant species (ignored in subsequent analysis): [11, 13]
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000001018
+Irrelevant species (ignored in subsequent analysis): [11, 13, 19, 20, 21, 22]
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000001021
+Irrelevant species (ignored in subsequent analysis): [7]
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000001022
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000001023
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000001024
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000001025
+Irrelevant species (ignored in subsequent analysis): [1, 2, 4]
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000001030
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000001031
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000001033
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000001034
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000001035
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000001036
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000001037
+Linear kinetics
+(Effectively) full rank
+Inconsistent
+
+BIOMD0000001038
+Linear kinetics
+(Effectively) full rank
+Consistent
+Nondegenerate wrt stoichiometric subspace
+
+BIOMD0000001041
+Irrelevant species (ignored in subsequent analysis): [4]
+Linear kinetics
+(Effectively) full rank
+Inconsistent
