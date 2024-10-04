@@ -27,7 +27,7 @@ The Maple portion of the code relies on Maple 2023.
 We begin by loading the functions:
 
 ```julia
-include("functions.jl");
+include("julia/functions.jl");
 ```
 
 Consider the following isocitrate dehydrogenase that appears in Shinar–Feinberg's work on absolute concentration robustness, entered in catalyst format.
