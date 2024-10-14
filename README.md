@@ -12,9 +12,9 @@ The repository contains the following files:
 * An analogous Maple file `maple/functions.mpl`.
 * A directory `results` that contains the following files:
     -  `investigated_models.csv` with all networks in [ODEbase](https://www.odebase.org/) (as of November 2, 2023) with at least one reaction.
-    -  `nondegenerate_networks` with all networks from `investigated_models.csv` that admit a positive nondegenerate steady state.
-    -  `degenerate_networks` with all networks from `investigated_models.csv` that have a positive steady states, but all of them are degenerate.
-    -  `generic_local_acr` with all networks from `investigated_models.csv` that satisfy the following criteria:
+    -  `nondegenerate_networks.csv` with all networks from `investigated_models.csv` that admit a positive nondegenerate steady state.
+    -  `degenerate_networks.csv` with all networks from `investigated_models.csv` that have a positive steady states, but all of them are degenerate.
+    -  `generic_local_acr.csv` with all networks from `investigated_models.csv` that satisfy the following criteria:
        * admits nondegenerate positive steady states
        * is not of full rank (after removing nonparticipating species)
        * has generic local ACR in at least one speceis.
