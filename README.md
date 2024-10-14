@@ -8,7 +8,7 @@ as a forthcoming manuscript on applications to chemical reaction network theory.
 
 ## File descriptions
 The repository contains the following files:
-* A Julia file `julia/functions.jl` that contains functions for testing whether a network admits positive nondegenerate steady states when modeled with generalized) mass action kinetics.
+* A Julia file `julia/functions.jl` that contains functions for testing whether a network admits positive nondegenerate steady states when modeled with (generalized) mass action kinetics.
 * An analogous Maple file `maple/functions.mpl`.
 * A directory `results` that contains the following files:
     -  `investigated_models.csv` with all networks in [ODEbase](https://www.odebase.org/) (as of November 2, 2023) with at least one reaction.
@@ -21,9 +21,9 @@ The repository contains the following files:
 
 ## Dependencies
 
-The Julia portion of the code is based on Catalyst v14.4.1 and Oscar v1.1.1. For exact dependencies, see the file `Manifest.toml`.
+The Julia portion of the code is based on Catalyst v14.4.1 and Oscar v1.1.1. For exact dependencies, see the file `julia/Manifest.toml`.
 
-The Maple portion of the code relies on Maple 2023.
+The Maple portion of the code was written for Maple 2023.
 
 ## Julia example
 
