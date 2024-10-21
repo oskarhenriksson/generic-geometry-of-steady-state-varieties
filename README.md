@@ -1,4 +1,4 @@
-# Dimension and degeneracy of zeros of parametric polynomial systems arising from reaction networks
+#  Generic consistency and nondegeneracy of vertically parametrized systems
 This repository contains files for the manuscript [Generic consistency and nondegeneracy of vertically parametrized systems
 ](https://arxiv.org/abs/2304.02302) (2304.02302) by Elisenda Feliu, Oskar Henriksson, and Beatriz Pascual-Escudero, as well 
 as a forthcoming manuscript on applications to chemical reaction network theory.
