@@ -189,3 +189,4 @@ end
 save_as_csv(vcat(nondegenerate_wrt_S, nondegenerate_not_wrt_S), timestamp_str * "_" * choice_of_models * "/nondegenerate_networks.csv")
 save_as_csv(degenerate, timestamp_str * "_" * choice_of_models * "/degenerate_networks.csv")
 save_as_csv(gen_local_acr, timestamp_str * "_" * choice_of_models * "/generic_local_acr.csv")
+save_as_csv(vcat(nondegenerate_wrt_S, nondegenerate_not_wrt_S, degenerate), timestamp_str * "_" * choice_of_models * "/investigated_networks.csv")
