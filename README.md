@@ -84,5 +84,6 @@ L = martix(QQ, conservationlaws(rn))
 has_nondegenerate_zero(N, B, L)
 generic_local_acr(N, B, 1)
 generic_local_acr(N, B, 4)
+local_acr_polynomial(N, B, 4)
 
 ```
