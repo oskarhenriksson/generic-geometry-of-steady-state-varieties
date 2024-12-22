@@ -67,6 +67,13 @@ julia> generic_local_acr(rn, 4)
 true
 ```
 
+For the fourth species, we get the following polynomial as a witness for ACR:
+
+```julia-repl
+julia> local_acr_polynomial(rn, 4)
+k[4]*k[6]*x[4] - k[3]*k[5] - k[3]*k[6]
+```
+
 We could also do these checks on the level of the matrices that describe the associated augmented vertical system:
 
 ```julia
