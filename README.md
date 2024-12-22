@@ -3,10 +3,10 @@ This repository contains files for the manuscript "The generic geometry of stead
 
 ## File descriptions
 The repository contains the following files:
-* A Julia file `julia/functions.jl` that contains functions for testing whether a network admits positive nondegenerate steady states when modeled with (generalized) mass action kinetics.
+* A Julia file `functions.jl` that contains functions for testing whether a network admits positive nondegenerate steady states when modeled with (generalized) mass action kinetics.
 * Two notebooks with examples:
-  - `julia/IDH.ipynb` for the isocitrate dehydrogenase network in Example 4.1 of the paper.
-  - `julia/167.ipynb` for the network `BIOMD0000000167` from BioModels/ODEbase discussed in Example 4.10 of the paper.
+  - `IDH.ipynb` for the isocitrate dehydrogenase network in Example 4.1 of the paper.
+  - `167.ipynb` for the network `BIOMD0000000167` from ODEbase discussed in Example 4.10 of the paper.
 * A directory `results` that contains the following files:
     -  `investigated_models.csv` with all networks in [ODEbase](https://www.odebase.org/) (as of November 2, 2023) with at least one reaction.
     -  `nondegenerate_networks.csv` with all networks from `investigated_models.csv` that admit a positive nondegenerate steady state.
@@ -18,16 +18,14 @@ The repository contains the following files:
 
 ## Dependencies
 
-The Julia portion of the code is based on Catalyst v14.4.1 and Oscar v1.1.1. For exact dependencies, see the file `julia/Manifest.toml`.
-
-The Maple portion of the code was written for Maple 2023.
+The Julia code is based on Catalyst v14.4.1 and Oscar v1.1.1. For exact dependencies, see the file `Manifest.toml`.
 
 ## Julia example
 
 We begin by loading the functions:
 
 ```julia
-include("julia/functions.jl");
+include("functions.jl");
 ```
 
 Consider the following isocitrate dehydrogenase that appears in Shinar–Feinberg's work on absolute concentration robustness, entered in catalyst format.
