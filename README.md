@@ -1,15 +1,11 @@
 #  Generic consistency and nondegeneracy of vertically parametrized systems
-This repository contains files for the manuscript [Generic consistency and nondegeneracy of vertically parametrized systems
-](https://arxiv.org/abs/2304.02302) (2304.02302) by Elisenda Feliu, Oskar Henriksson, and Beatriz Pascual-Escudero, as well 
-as a forthcoming manuscript on applications to chemical reaction network theory.
-
-> [!WARNING]  
-> Parts of the code is still experimental. Use at own risk!
+This repository contains files for the manuscript "The generic geometry of steady state varieties"by Elisenda Feliu, Oskar Henriksson, and Beatriz Pascual-Escudero.
 
 ## File descriptions
 The repository contains the following files:
 * A Julia file `julia/functions.jl` that contains functions for testing whether a network admits positive nondegenerate steady states when modeled with (generalized) mass action kinetics.
-* An analogous Maple file `maple/functions.mpl`.
+* An analogous Maple file maple/functions.mpl.
+* Two notebooks with examples (one for the Shinar-Feinberg network, and one for network `BIOMD0000000167` from BioModels/ODEbase.
 * A directory `results` that contains the following files:
     -  `investigated_models.csv` with all networks in [ODEbase](https://www.odebase.org/) (as of November 2, 2023) with at least one reaction.
     -  `nondegenerate_networks.csv` with all networks from `investigated_models.csv` that admit a positive nondegenerate steady state.
@@ -48,21 +44,21 @@ end;
 
 The following command returns `true`, which means that the network admits positive steady states:
 
-```julia
+```julia-repl
 julia> is_consistent(rn)
 true
 ```
 
 The following command returns `true`, which means that there is a nondegenerate steady state with respect to its stoichiometric compatibility classes:
 
-```julia
+```julia-repl
 julia> has_nondegenerate_steady_state(rn, use_conservation_laws=true)
 true
 ```
 
 We check for generic local ACR with respect to the first and fourth species:
 
-```julia
+```julia-repl
 julia> generic_local_acr(rn, 1)
 false
 
