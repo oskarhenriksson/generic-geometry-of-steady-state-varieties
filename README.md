@@ -6,8 +6,8 @@ The repository contains the following files:
 * A Julia file `julia/functions.jl` that contains functions for testing whether a network admits positive nondegenerate steady states when modeled with (generalized) mass action kinetics.
 * An analogous Maple file maple/functions.mpl.
 * Two notebooks with examples:
-  - `IDH.ipynb` for the isocitrate dehydrogenase network in (Example 4.1 in the paper).
-  - `167.ipynb` for the network `BIOMD0000000167` from BioModels/ODEbase (Example 4.10 in the paper).
+  - `julia/IDH.ipynb` for the isocitrate dehydrogenase network in Example 4.1 of the paper.
+  - `julia/167.ipynb` for the network `BIOMD0000000167` from BioModels/ODEbase discussed in Example 4.10 of the paper.
 * A directory `results` that contains the following files:
     -  `investigated_models.csv` with all networks in [ODEbase](https://www.odebase.org/) (as of November 2, 2023) with at least one reaction.
     -  `nondegenerate_networks.csv` with all networks from `investigated_models.csv` that admit a positive nondegenerate steady state.
