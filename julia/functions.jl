@@ -1,12 +1,38 @@
 using Oscar
 using Catalyst
 
+# Basic functions
+
 # Function to generate all p-by-p minors of matrix M
-# (Will probably be included in latest version of Oscar!)
+# (Will be included in future versions of Oscar!)
 function minors_iterator(M::MatrixElem, k::Int)
     row_indices = AbstractAlgebra.combinations(1:nrows(M), k)
     col_indices = AbstractAlgebra.combinations(1:ncols(M), k)
     return (det(M[rows, cols]) for rows in row_indices for cols in col_indices)
+end
+
+function is_unit_vector(v::Vector)
+    sum(v) == 1 && all(x -> x == 0 || x == 1, v)
+end
+
+
+# Vertically parametrized systems
+
+# Checks the matrix of monomials for linearity
+function vertically_parametrized_system(B::ZZMatrix, C::QQMatrix)
+    Qk, k = rational_function_field(QQ, "k"=>1:size(B, 2))
+    Qkx, x = polynomial_ring(Qk, "x"=>1:size(B, 1))
+    return C*[k[i]*prod(x.^B[:,i]) for i in 1:ncols(B)]
+end
+
+function is_linear(B::ZZMatrix)
+    for i in 1:ncols(B)
+        col = B[:,i]
+        if !is_unit_vector(col) && !is_zero(col)
+            return false
+        end
+    end
+    return true
 end
 
 # Checks whether N has a positive vector in its kernel
@@ -18,10 +44,8 @@ function nonempty_positive_kernel(N::Union{QQMatrix,ZZMatrix})
     return is_feasible(P)
 end
 
-function is_consistent(rn::ReactionSystem)
-    N = matrix(QQ, netstoichmat(rn))
-    return nonempty_positive_kernel(N)
-end
+
+# Generic nondegeneracy checks
 
 # Checks whether (C.diag(k).x^M, L*x-b) has a nondegenerate zero
 function has_nondegenerate_zero(C::QQMatrix, M::ZZMatrix, L::QQMatrix=zero_matrix(QQ, 0, nrows(M));
@@ -50,6 +74,37 @@ function has_nondegenerate_zero(C::QQMatrix, M::ZZMatrix, L::QQMatrix=zero_matri
     end
 end
 
+# ACR functions
+
+function generic_local_acr(C::QQMatrix, M::ZZMatrix, i::Int; 
+    number_of_attempts::Int=3, max_entry_size::Int=1000, certify::Bool=true)
+    @req has_nondegenerate_zero(C, M) "The system needs to have a nondegenerate zero"
+    return !has_nondegenerate_zero(C, M[setdiff(1:nrows(M), i), :], 
+        number_of_attempts=number_of_attempts, max_entry_size=max_entry_size, certify=certify)
+end
+
+
+function local_acr_polynomial(C::QQMatrix, M::ZZMatrix, i::Int)
+    steady_state_system = vertically_parametrized_system(M, C)
+    R = parent(first(steady_state_system))
+    x = gens(R)
+    I = ideal(parent(first(steady_state_system)), steady_state_system)
+    Isat = saturation(I, ideal(R, prod(x)))
+    Ielim = eliminate(Isat, [x[j] for j in 1:nrows(M) if j != i])
+    generators = gens(Ielim)
+    @req length(generators) == 1 "The ideal should be principal"
+    g = first(generators)
+    return g
+end
+
+
+# CRNT functions
+
+function is_consistent(rn::ReactionSystem)
+    N = matrix(QQ, netstoichmat(rn))
+    return nonempty_positive_kernel(N)
+end
+
 function has_nondegenerate_steady_state(rn::ReactionSystem; use_conservation_laws::Bool=false, 
     number_of_attempts::Int=3, max_entry_size::Int=1000, certify::Bool=true)
     N = matrix(QQ, netstoichmat(rn))
@@ -62,14 +117,6 @@ function has_nondegenerate_steady_state(rn::ReactionSystem; use_conservation_law
     return has_nondegenerate_zero(N, B, L, number_of_attempts=number_of_attempts, max_entry_size=max_entry_size, certify=certify)
 end
 
-
-function generic_local_acr(C::QQMatrix, M::ZZMatrix, i::Int; 
-    number_of_attempts::Int=3, max_entry_size::Int=1000, certify::Bool=true)
-    @req has_nondegenerate_zero(C, M) "The system needs to have a nondegenerate zero"
-    return !has_nondegenerate_zero(C, M[setdiff(1:nrows(M), i), :], 
-        number_of_attempts=number_of_attempts, max_entry_size=max_entry_size, certify=certify)
-end
-
 function generic_local_acr(rn::ReactionSystem, i::Int;
     number_of_attempts::Int=3, max_entry_size::Int=1000, certify::Bool=true)
     N = matrix(QQ, netstoichmat(rn))
@@ -77,5 +124,10 @@ function generic_local_acr(rn::ReactionSystem, i::Int;
     return generic_local_acr(N, B, i; number_of_attempts=number_of_attempts, max_entry_size=max_entry_size, certify=certify)
 end
 
+function local_acr_polynomial(rn::ReactionSystem, i::Int)
+    N = matrix(QQ, netstoichmat(rn))
+    B = matrix(ZZ, substoichmat(rn))
+    return local_acr_polynomial(N, B, i)
+end
 
-
+has_linear_kinetics(rn::ReactionSystem) = is_linear(matrix(ZZ, substoichmat(rn)))
