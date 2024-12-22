@@ -4,7 +4,6 @@ This repository contains files for the manuscript "The generic geometry of stead
 ## File descriptions
 The repository contains the following files:
 * A Julia file `julia/functions.jl` that contains functions for testing whether a network admits positive nondegenerate steady states when modeled with (generalized) mass action kinetics.
-* An analogous Maple file maple/functions.mpl.
 * Two notebooks with examples:
   - `julia/IDH.ipynb` for the isocitrate dehydrogenase network in Example 4.1 of the paper.
   - `julia/167.ipynb` for the network `BIOMD0000000167` from BioModels/ODEbase discussed in Example 4.10 of the paper.
@@ -79,36 +78,4 @@ has_nondegenerate_zero(N, B, L)
 generic_local_acr(N, B, 1)
 generic_local_acr(N, B, 4)
 
-```
-
-
-## Maple example
-Suppose we want to investigate the properties of a network with the following stoichiometric matrix and reactant matrix (this corresponds to the network `BIOMD0000000520` in ODEbase):
-
-```
-Gamma := Matrix([[-1, 0, 1, 0, 0, 0, 0], [0, 1, 0, -1, 0, 1, 0], [0, 0, 0, 0, 1, 0, -1]]);
-B := Matrix([[1, 1, 1, 0, 0, 0, 0], [0, 0, 0, 1, 1, 1, 0], [0, 0, 0, 0, 0, 0, 1]]);
-```
-
-We begin by loading our Maple functions:
-
-```
-read("functions.mpl"):
-```
-
-The following command returns `true`, which means that the network admits positive steady states:
-
-```
-IsConsistent(Gamma)
-```
-
-The following command returns `false`, which means that all steady states are degenerate:
-
-```
-HasNondegenerateSteadyState(Gamma,B);
-```
-
-The following command returns `false`; with the notation from equation (4.2) in the paper, this means that all zeros of $f_\kappa$ are degenerate for all $\kappa$:
-```
-HasNondegenerateZero(Gamma,B);
 ```
