@@ -1,4 +1,4 @@
-#  Generic consistency and nondegeneracy of vertically parametrized systems
+#  Generic geometry of steady state varieties
 This repository contains files for the manuscript "The generic geometry of steady state varieties"by Elisenda Feliu, Oskar Henriksson, and Beatriz Pascual-Escudero.
 
 ## File descriptions
