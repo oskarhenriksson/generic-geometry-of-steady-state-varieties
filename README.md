@@ -8,7 +8,8 @@ The repository contains the following files:
   - `IDH.ipynb` for the isocitrate dehydrogenase network in Example 4.1 of the paper.
   - `167.ipynb` for the network `BIOMD0000000167` from ODEbase discussed in Example 4.10 of the paper.
 * A directory `results` that contains the following files:
-    -  `investigated_models.csv` with all networks in [ODEbase](https://www.odebase.org/) (as of November 2, 2023) with at least one reaction.
+    -  `investigated_models.csv` with all consistent networks in [ODEbase](https://www.odebase.org/) (as of November 2, 2023) with at least one reaction with integer stoichiometric coefficients.
+        The networks that do not satisfy this are listed in `excluded_networks.csv`.
     -  `nondegenerate_networks.csv` with all networks from `investigated_models.csv` that admit a positive nondegenerate steady state.
     -  `degenerate_networks.csv` with all networks from `investigated_models.csv` that have a positive steady states, but all of them are degenerate.
     -  `generic_local_acr.csv` with all networks from `investigated_models.csv` that satisfy the following criteria:
