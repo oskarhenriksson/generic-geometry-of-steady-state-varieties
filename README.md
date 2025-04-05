@@ -78,7 +78,7 @@ We could also do these checks on the level of the matrices that describe the ass
 ```julia
 N = matrix(QQ, netstoichmat(rn))
 B = matrix(ZZ, substoichmat(rn))
-L = martix(QQ, conservationlaws(rn))
+L = matrix(QQ, conservationlaws(rn))
 
 has_nondegenerate_zero(N, B, L)
 generic_local_acr(N, B, 1)
